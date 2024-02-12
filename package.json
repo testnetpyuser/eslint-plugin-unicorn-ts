@@ -1,0 +1,33 @@
+{
+    "name": "eslint-plugin-unicorn-ts",
+    "version": "1.0.0",
+    "description": "Enhance your JavaScript code quality with unicorn rules in TypeScript.",
+    "main": "lib/index.js",
+    "scripts": {
+      "test": "eslint ."
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/testnetpyuser/eslint-plugin-unicorn-ts.git"
+    },
+    "keywords": [
+      "eslint",
+      "eslintplugin",
+      "eslint-plugin",
+      "typescript",
+      "unicorn"
+    ],
+    "author": "testnetpyuser",
+    "license": "ISC",
+    "peerDependencies": {
+      "eslint": ">=7.0.0"
+    },
+    "devDependencies": {
+      "@typescript-eslint/parser": "^4.0.0",
+      "eslint": "^7.0.0"
+    },
+    "bugs": {
+      "url": "https://github.com/testnetpyuser/eslint-plugin-unicorn-ts/issues"
+    },
+    "homepage": "https://github.com/testnetpyuser/eslint-plugin-unicorn-ts#readme"
+  }  
