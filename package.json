@@ -1,5 +1,5 @@
 {
-    "name": "eslint-plugin-unicorn-ts",
+    "name": "eslint-plugin-unicorn-ts-2",
     "version": "1.0.0",
     "description": "Enhance your JavaScript code quality with unicorn rules in TypeScript.",
     "main": "lib/index.js",
